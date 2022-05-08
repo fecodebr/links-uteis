@@ -26,7 +26,7 @@ Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse
 17. [Código online](#codigo-online)
 18. [Canvas](#canvas)
 19. [Programação Funcional](#Programação-Funcional)
-
+20. [Curso gratuito](#Curso-gratuito)
 
 ## HTML
 
@@ -588,6 +588,10 @@ Ferramenta para auxílio nos testes em React.
 * [High-order Functions - fun fun function](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 * [Map, filter e reduce](http://desenvolvimentoparaweb.com/javascript/map-filter-reduce-javascript/)
+
+### Curso gratuito
+
+* [Digital Innovation One](https://web.dio.me/)
 
 ### Sourcemaps
 
