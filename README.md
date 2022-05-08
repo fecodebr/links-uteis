@@ -1,5 +1,5 @@
-# links-uteis
-Links uteis que uso para estudo
+# links-uteis 
+Links uteis que uso para estudo copiado em meu git.
 # Utilidades
 
 Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e o [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
