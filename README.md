@@ -1,6 +1,6 @@
 # links-uteis 
 Links uteis que uso para estudo copiado em meu git.
-Autora:Juliana Negreiros
+Autora: [Juliana Negreiros](https://github.com/juunegreiros/utilities)
 # Utilidades
 
 Tendo como base o incrível [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) e o [frontend handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
